@@ -1,7 +1,6 @@
 #!/bin/sh
 . ./file.ini
-echo $x
-klnNKdnslk
-klnzlckncx
+echo $xklnNKdnslk
+KLNDKLNBKLABSDKLABklnzlckncx
 klgrodsg;gf
 lgogodlgd
